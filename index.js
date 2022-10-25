@@ -1,2 +1,4 @@
-<h1>Hello Server</h1>,
-    <h1>he</h1>
+const express = require('express');
+const app = express();
+const cors = require('cors');
+const port = process.env.PORT || 5000;
