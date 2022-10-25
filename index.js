@@ -12,7 +12,11 @@ app.get('/', (req, res) => {
 app.get('/course-categories', (req, res) => {
     res.send(categories)
 });
-
+app.get('/category/:id', (req, res) => {
+    const id = req.params.id;
+    const categoryCourse = courses.filter(course => course.category_id === id);
+    res.send(categoryCourse);
+})
 app.listen(port, () => {
 
 })
