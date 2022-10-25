@@ -1,34 +1,34 @@
 [
   {
     "id": "1",
-    "category": "Software Development"
+    "name": "Software Development"
   },
   {
     "id": "2",
-    "category": "Web Development"
+    "name": "Web Development"
   },
   {
     "id": "3",
-    "category": "Mobile Development"
+    "name": "Mobile Development"
   },
   {
     "id": "4",
-    "category": "Game Development"
+    "name": "Game Development"
   },
   {
     "id": "5",
-    "category": "Cloud Computing"
+    "name": "Cloud Computing"
   },
   {
     "id": "6",
-    "category": "Data Science"
+    "name": "Data Science"
   },
   {
     "id": "7",
-    "category": "Network And Security"
+    "name": "Network And Security"
   },
   {
     "id": "8",
-    "category": "Programming Language"
+    "name": "Programming Language"
   }
 ]
